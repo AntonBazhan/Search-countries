@@ -24,7 +24,9 @@
     "@babel/core": "^7.8.7",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
     "@babel/preset-env": "^7.8.7",
+    "@pnotify/bootstrap3": "^5.1.2",
     "@pnotify/core": "^5.1.2",
+    "@pnotify/glyphicon": "^5.1.2",
     "autoprefixer": "^9.7.4",
     "babel-loader": "^8.0.6",
     "clean-webpack-plugin": "^3.0.0",
@@ -52,6 +54,7 @@
   "dependencies": {
     "core-js": "^3.6.4",
     "handlebars": "^4.7.3",
-    "lodash.debounce": "^4.0.8"
+    "lodash.debounce": "^4.0.8",
+    "pnotify": "^5.1.2"
   }
 }

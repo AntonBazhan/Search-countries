@@ -9,9 +9,31 @@ html {
 }
 
 body {
- 
   /*
    * CSS image reference example.
    */
   background-image: url('./images/bg-pattern.png');
+}
+.form-inline {
+  text-align: center;
+}
+.form_country {
+  display: flex;
+  justify-content: center;
+}
+
+.flag {
+  width: 350px;
+  height: 335px;
+}
+
+.text {
+  font-weight: bold;
+}
+.form-control {
+  font-size: 28px;
+  line-height: 1.2;
+  text-align: center;
+  margin: 40px;
+  width: 538px;
 }
