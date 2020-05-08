@@ -55,6 +55,7 @@
     "core-js": "^3.6.4",
     "handlebars": "^4.7.3",
     "lodash.debounce": "^4.0.8",
+    "minimist": "^1.2.5",
     "pnotify": "^5.1.2"
   }
 }
