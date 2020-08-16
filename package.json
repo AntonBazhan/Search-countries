@@ -53,9 +53,14 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "dot-prop": "^5.2.0",
+    "elliptic": "^6.5.3",
     "handlebars": "^4.7.3",
+    "lodash": "^4.17.20",
     "lodash.debounce": "^4.0.8",
     "minimist": "^1.2.5",
-    "pnotify": "^5.1.2"
+    "pnotify": "^5.1.2",
+    "serialize-javascript": "^4.0.0",
+    "websocket-extensions": "^0.1.4"
   }
 }
